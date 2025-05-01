@@ -27,7 +27,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/movie_ratings.jpg" alt="movie rating" width="500" />
+        <img src=".//images/Screenshot 2025-05-01 12.51.38.png" alt="movie rating" width="500" />
       </div>
       <br />
       <div class="page-content-guide">Enter in your lengths.</div>
@@ -42,13 +42,13 @@
           </div>
           <label>Side b:</label>
           <div class="mdl-textfield mdl-js-textfield">
-            <input class="mdl-textfield__input" type="number" name="user-age" required min="0" />
+            <input class="mdl-textfield__input" type="number" name="side-b" required min="0" />
             <label class="mdl-textfield__label" for="side-b">Enter without the unit</label>
             <span class="mdl-textfield__error">Input is not a number!</span>
           </div>
           <label>Side c:</label>
           <div class="mdl-textfield mdl-js-textfield">
-            <input class="mdl-textfield__input" type="number" name="user-age" required min="0" />
+            <input class="mdl-textfield__input" type="number" name="side-c" required min="0" />
             <label class="mdl-textfield__label" for="side-c">Enter without the unit</label>
             <span class="mdl-textfield__error">Input is not a number!</span>
           </div>
